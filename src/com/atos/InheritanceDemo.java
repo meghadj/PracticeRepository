@@ -39,7 +39,7 @@ Student st2=new Student(103,"Rose", 85, true);
 System.out.println(st2);
 st1.setStudentmarks(90);
 System.out.println(st2);
+System.out.println("new update");
 	}
+	
 	}
-
-
