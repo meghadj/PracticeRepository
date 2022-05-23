@@ -16,6 +16,7 @@ public class ExceptionHandlingDemo {
 		    }
 		    finally {
 		    System.out.println("Result is "+result);
+		    System.out.println("Hello world");
 		    }
 
 	}
