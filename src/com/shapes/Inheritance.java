@@ -16,6 +16,8 @@ public class Inheritance {
 		sqr.draw2d();
 		sqr.display();
 		sqr.message();
+		
+		System.out.println("NEW UPDATE");
 
 	}
 
